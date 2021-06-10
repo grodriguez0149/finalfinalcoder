@@ -1,0 +1,70 @@
+/*Clases Fomulario de registro*/
+.formRegister {
+    width: 400px;
+    /*ancho*/
+    background: #24303c;
+    padding: 30px;
+    /*borde para q no este pegado a contenido*/
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px; 
+  
+    .Controls {
+    width: 200px;
+    /*ancho*/
+    background: #18185e;
+    padding: 15px;
+    /*borde para q no este pegado a contenido*/
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white; 
+    .Acuerdo p {
+    font-size: 52px;
+    margin-bottom: 20px;
+    background: #24303c;
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 18px;
+    border: 1px solid #1f53c5;
+    font-size: 16px; }
+        }
+    
+
+  
+         h4 {
+    font-size: 52px;
+    margin-bottom: 20px;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-size: 18px; 
+         }
+        a {
+    color: white;
+    text-decoration: none; 
+        }
+    .Buttom {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px; }
+    
+        a:hover {
+    color: white;
+     }
+
+}
+
+        
+  
